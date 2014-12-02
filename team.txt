@@ -17,8 +17,8 @@ https://github.com/rockymanobi/git-practice.git <-SSHはあとでわっしょい
 こんにちは
 
 
-ほげほげほげほげ
-cdcdcdc
+きれいに
+修正しました。
 ここは変更しました
 fefefefef
 ついかしました
