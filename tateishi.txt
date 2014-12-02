@@ -1,0 +1,6 @@
+https://github.com/rockymanobi/git-practice.git
+
+テスト用ファイル
+
+修正確認用に行を追加。
+
