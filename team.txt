@@ -17,8 +17,8 @@ https://github.com/rockymanobi/git-practice.git
 こんにちは
 
 
-hogehoge
-ababa
+ほげほげほげほげ
+cdcdcdc
 ここは変更しました
 fefefefef
 ついかしました
