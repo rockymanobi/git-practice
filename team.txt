@@ -3,7 +3,7 @@
 たぶん、よく寝ているからだと思います。
 
 とみー
-https://github.com/rockymanobi/git-practice.git <-SSHはあとで
+https://github.com/rockymanobi/git-practice.git <-SSHはあとでわっしょい
 
 テスト用ファイル
 
@@ -17,8 +17,8 @@ https://github.com/rockymanobi/git-practice.git <-SSHはあとで
 こんにちは
 
 
-hogehoge
-ababa
+ほげほげほげほげ
+cdcdcdc
 ここは変更しました
 fefefefef
 ついかしました
