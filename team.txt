@@ -3,7 +3,7 @@
 たぶん、よく寝ているからだと思います。
 
 とみー
-https://github.com/rockymanobi/git-practice.git
+https://github.com/rockymanobi/git-practice.git <-SSHはあとで
 
 テスト用ファイル
 
